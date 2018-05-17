@@ -314,17 +314,17 @@ input[type=submit]:hover {
 @media screen and (max-width: 980px) {
 
  #aboutme {
-    width: 650px;
+    width: 66%;
 }
  #content {
-    width: 650px;
+    width: 66%;
 }
  #contact {
-    width: 650px;
+    width: 66%;
 }
  header .topnav {
-    width: 650px;
-}
+    width: 66%;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -337,5 +337,23 @@ input[type=submit]:hover {
  }
  #contact {
      width: 80%;
+ }
+ header .topnav {
+     width: 80%;
+  }
+}
+
+@media screen and (max-width: 640px) {
+ #aboutme {
+     width: 90%;
+ }
+ #content {
+     width: 90%;
+ }
+ #contact {
+     width: 90%;
+ }
+ header .topnav {
+     width: 90%;
  }
 }
