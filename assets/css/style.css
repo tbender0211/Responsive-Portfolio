@@ -318,6 +318,7 @@ input[type=submit]:hover {
 }
  #content {
     width: 66%;
+    height: 150%;
 }
  #contact {
     width: 66%;
@@ -334,6 +335,7 @@ input[type=submit]:hover {
  }
  #content {
      width: 80%;
+     height: 150%;
  }
  #contact {
      width: 80%;
@@ -350,6 +352,7 @@ input[type=submit]:hover {
  }
  #content {
      width: 90%;
+     height: 150%;
  }
  #contact {
      width: 90%;
